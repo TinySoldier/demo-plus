@@ -1,0 +1,4 @@
+
+#org.springframework.context.ApplicationContextInitializer=com.example.demoplus.initializer.FirstInitializer
+
+#org.springframework.context.ApplicationListener=com.example.demoplus.listener.FirstListener,com.example.demoplus.listener.SecondListener
